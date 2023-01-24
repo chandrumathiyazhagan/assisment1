@@ -55,7 +55,9 @@ However, this function is only true if z is false. If z is true, then the functi
 
 ## PROGRAM:
 ```
-Program to verify the truth table in quartus for the basic logic gates using Verilog programming. Developed by: CHANDRU.M RegisterNumber: 22008631
+Program to verify the truth table in quartus for the basic logic gates using Verilog programming. 
+Developed by: CHANDRU.M 
+RegisterNumber: 22008631
 
 module MK(input x, y, z, output F);
     wire temp1,temp2;
